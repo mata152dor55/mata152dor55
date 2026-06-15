@@ -4,6 +4,11 @@
   </a>
 </p>
 
+### 👨‍💻 Sobre Mí
+* 🎓 Estudiante de Ingeniería de Sistemas (UPC).
+* 💻 Practicante en TMGroup.
+* 🇵🇪 Perú, Lima
+  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mata152dor55/mata152dor55/output/github-contribution-grid-snake-dark.svg">
@@ -21,5 +26,11 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=santiagocolonio&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:santiagocolonio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
