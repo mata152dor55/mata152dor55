@@ -4,11 +4,14 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ### 👨‍💻 Sobre Mí
 * 🎓 Estudiante de Ingeniería de Sistemas (UPC).
 * 💻 Practicante en TMGroup.
 * 🇵🇪 Perú, Lima
-  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mata152dor55/mata152dor55/output/github-contribution-grid-snake-dark.svg">
@@ -20,6 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mata152dor55&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### 🎧 Escuchando ahora en Spotify
 
