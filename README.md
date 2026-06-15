@@ -14,3 +14,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mata152dor55&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mata152dor55/mata152dor55/main/spotify-now-playing.svg" alt="Spotify Now Playing" />
+</p>
