@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=github.gif" alt="Banner animado" width="100%" />
+  <img src=[github.gif](https://github.com/mata152dor55/mata152dor55/blob/main/github.gif?raw=true)" alt="Banner animado" width="100%" />
 </p>
 
 
