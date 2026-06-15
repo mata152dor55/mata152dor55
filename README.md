@@ -31,9 +31,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mata152dor55&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,postgres,dotnet,git,py,html,css,ts" alt="Cosas que uso" />
+  </a>
 </p>
-
 
 ### 🎧 Escuchando ahora en Spotify
 
