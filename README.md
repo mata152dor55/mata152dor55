@@ -17,5 +17,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mata152dor55/mata152dor55/main/spotify-now-playing.svg" alt="Spotify Now Playing" />
+  <!-- spotify -->
+  <!-- spotify -->
 </p>
