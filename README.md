@@ -14,6 +14,13 @@
   ✍️ Me gusta el anime y los jueguitos
 </p>
 
+### 📚 Actualmente aprendiendo
+
+- 🔧 Arquitectura backend
+- ☁️ AWS y Azure
+- ⚙️ Desarrollo móvil con .NET MAUI
+- 🕵️ Ciberseguridad (como hobby)
+
 <p align="center">
   <a href="mailto:santiagocolonio@gmail.com">
     <img src="https://img.shields.io/badge/Escríbeme-1A1B27?style=for-the-badge&logo=gmail&logoColor=F72585" alt="Gmail" />
@@ -41,6 +48,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mata152dor55&show_icons=true&theme=radical" />
+</p>
+
 
 ### 🎧 Escuchando ahora en Spotify
 
