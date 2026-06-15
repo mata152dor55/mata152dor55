@@ -10,3 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mata152dor55/mata152dor55/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/mata152dor55/mata152dor55/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mata152dor55&layout=compact&theme=radical" alt="Top Languages" />
+</p>
