@@ -2,7 +2,7 @@ name: Spotify Now Playing
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,12 +11,21 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Update README with Spotify
         uses: kittinan/spotify-github-profile@master
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update Spotify profile" || echo "No changes"
+          git push
