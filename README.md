@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  🎓 Estudiante de Ingeniería de Sistemas (UPC) en Lima, Perú.<br>
   
+  🎓 Estudiante de Ingeniería de Sistemas (UPC) en Lima, Perú.<br>
   💻 Practicante en TMGroup.<br>
   🚀 21 años (por ahora).<br>
   ⚙️ Suelo usar C#, Java, Spring Boot, Angular, etc...<br>
