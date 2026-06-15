@@ -2,26 +2,18 @@ name: Spotify Now Playing
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Se ejecuta cada 5 minutos
-  workflow_dispatch: # Te permite ejecutarlo a mano
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
-      - name: Generar imagen de Spotify
-        uses: novatorem/novatorem@main
+      
+      - name: Update README with Spotify
+        uses: kittinan/spotify-github-profile@master
         with:
-          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-
-      - name: Guardar cambios en el repositorio
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add spotify-now-playing.svg
-          git commit -m "Update Spotify Now Playing" || echo "No hay cambios"
-          git push
+          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
