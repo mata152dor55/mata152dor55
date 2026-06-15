@@ -19,5 +19,7 @@
 ### 🎧 Escuchando ahora en Spotify
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/mata152dor55/mata152dor55/main/spotify-github-profile.svg" />
-  </p>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=santiagocolonio&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
